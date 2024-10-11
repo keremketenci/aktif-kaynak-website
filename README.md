@@ -20,9 +20,9 @@ bun install
 ```
 ## Usage
 ```
-pnpm dev
-# or
 npm run dev
+# or
+pnpm dev
 # or
 yarn dev
 # or

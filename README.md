@@ -10,9 +10,9 @@
 git clone https://github.com/keremketenci/aktif-kaynak-website.git
 cd aktif-kaynak-website
 
-pnpm install
-# or
 npm install
+# or
+pnpm install
 # or
 yarn install
 # or

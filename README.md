@@ -5,6 +5,8 @@
   <a href="https://www.aktifkaynak.com" title="Visit Aktif Kaynak">🌐 Website</a>
 </p>
 
+> This project is in development.
+
 ## Installation
 ```
 git clone https://github.com/keremketenci/aktif-kaynak-website.git
